@@ -239,16 +239,16 @@ class MyCall {
  [1;31m     [1;32m   
  [1;31m     [1;32m   
  [1;33m
- [1;35m[-] [1;36mMessage  : [1;37mSelamat Datang                            
- [1;35m[-] [1;36mServer   : [1;37mOnline                                    
- [1;35m[-] [1;36mScript   : [1;37mSpam Call                                 
- [1;35m[-] [1;36mVersi    : [1;37m1.0                                       
+ [1;35m[-] ["agllofcdjf"]Message  : ["agllofcdjf"]Selamat Datang                            
+ [1;35m[-] ["agllofcdjf"]Server   : ["agllofcdjf"]Online                                    
+ [1;35m[-] ["agllofcdjf"]Script   : ["agllofcdjf"]Spam Call                                 
+ [1;35m[-] ["agllofcdjf"]Versi    : ["agllofcdjf"]1.0                                       
  [1;33m
  [1;35m[-] [1;36mCreator  : [1;37mGemudi                   
  [1;35m[-] [1;36mYoutube  : [1;37mGemudi Script    
  [1;33m
                 
- [1;33m[1;32mINPUT DATA TARGET[1;33m
+ ["agllofcdjf"]INPUT DATA TARGET["agllofcdjf"]
 ";
     public function run() {
         try {
@@ -265,7 +265,7 @@ class MyCall {
             $lkilkkqrfy = "call";
             echo $this->logo;
             $gdjugqjbpyg = "coli";
-            echo " [1;35m[] [1;33mNOMOR [1;37m(08) : [1;37m";
+            echo " [1;35m[] [1;33mNOMOR ["agllofcdjf"](08) : ["agllofcdjf"]";
             $ {
                 $ {
                     "GLOBALS"
@@ -279,7 +279,7 @@ class MyCall {
                 ["nrdujilx"]
             }, 0, 2) !== "08") {
                 throw new Exception("
- [1;37mMessage: [1;31mGunakan angka awalan 08
+ ["agllofcdjf"]Message: ["agllofcdjf"]Gunakan angka awalan 08
 
 ");
                 exit(0);
@@ -356,7 +356,7 @@ class MyCall {
                     }
                     ["dsjdmphow"]
                 }, "Request misscall berhasil")) {
-                    echo " [1;35m[] [1;33mINFO: 
+                    echo " [1;35m[] ["agllofcdjf"]INFO: 
        [1;32m[Code]   : 30
        [Msisdn] : $phone
        [Pesan]  : Request misscall berhasil
